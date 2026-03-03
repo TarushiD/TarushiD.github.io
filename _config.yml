@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
+site_theme               : "contrast" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
 title                    : "tarushid / Portfolio"
 title_separator          : "-"
 name                     : &name "Tarushi Dubey"
@@ -24,7 +24,7 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Tarushi Dubey"
   pronouns         : # example: "she/her"  
   bio              : "I'm interested in using data to create insights for decision making. I am passionate about econometrics, data science, competition policy and econ in general!"
   location         : "Ireland"
