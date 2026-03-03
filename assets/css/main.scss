@@ -40,4 +40,19 @@
     "vendor/font-awesome/fontawesome",
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands"
+
+   /* Custom Benjamin-style Minimalist Overrides */
+a {
+  color: #333333 !important; /* Dark Gray Links */
+  text-decoration: none;
+}
+
+a:hover {
+  color: #000000 !important; /* Pure Black on Hover */
+  text-decoration: underline;
+}
+
+.sidebar {
+  border-right: 1px solid #eeeeee; /* Subtle divider like Benjamin's */
+}
 ;
